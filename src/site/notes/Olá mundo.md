@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ola-mundo/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ola-mundo/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 aqui eu vou postar o conteudo para estudar para o vestibular
