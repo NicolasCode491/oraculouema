@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/1-comece-por-aqui/2-indice-matematica/","dg-note-properties":{}}
 ---
 
-
+[[1 - Comece por aqui/1 - Olá mundo\|1 - Olá mundo]]
 
 **MATEMÁTICA**
 
