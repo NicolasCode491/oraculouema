@@ -11,6 +11,7 @@ questões:
 
 Dilatação e Calorimetria
 questões:
+[[2 - Questões/Questões de Física/2026 Q 43\|2026 Q 43]]
 
 Eletrostática
 questões:
