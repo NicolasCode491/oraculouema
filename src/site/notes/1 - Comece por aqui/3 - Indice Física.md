@@ -6,39 +6,41 @@
 
 **FÍSICA**
 
-Cinemática
+1- Cinemática
+questões:
+[[2 - Questões/Questões de Física/1- Cinemática/2026 Q 42\|2026 Q 42]]
+
+2 -Dilatação e Calorimetria
+questões:
+[[2 - Questões/Questões de Física/2 - Dilatação e Calorimetria/2026 Q 43\|2026 Q 43]]
+
+3 -Eletrostática
 questões:
 
-Dilatação e Calorimetria
-questões:
-[[2 - Questões/Questões de Física/2026 Q 43\|2026 Q 43]]
-
-Eletrostática
+4 -Leis de Newton e Conservação de Energia
 questões:
 
-Leis de Newton e Conservação de Energia
+5 -Termodinâmica
 questões:
 
-Termodinâmica
+6 -Circuitos Elétricos
 questões:
 
-Circuitos Elétricos
+7 -Impulso e Colisões
 questões:
 
-Impulso e Colisões
+8 -Espelhos e Lentes
 questões:
 
-Espelhos e Lentes
+9 -Magnetismo (Força e Campo)
 questões:
 
-Magnetismo (Força e Campo)
+10 -Estática e Hidrostática
 questões:
 
-Estática e Hidrostática
+11 - Ondulatória
 questões:
+[[2 - Questões/Questões de Física/11 - Ondulatória/2026 Q 41\|2026 Q 41]]
 
-Ondulatória
-questões:
-
-Física Moderna
+12 -Física Moderna
 questões:
