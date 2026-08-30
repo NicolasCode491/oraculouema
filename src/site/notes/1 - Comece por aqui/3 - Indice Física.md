@@ -34,6 +34,8 @@ questões:
 
 9 -Magnetismo (Força e Campo)
 questões:
+[[2 - Questões/Questões de Física/9 - Magnetismo/2026 Q 44\|2026 Q 44]]
+
 
 10 -Estática e Hidrostática
 questões:
